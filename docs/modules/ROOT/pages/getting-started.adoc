@@ -1,0 +1,21 @@
+= Getting Started
+:page-layout: docs
+
+== Introduction
+
+This guide will help you get started with our product.
+
+== Prerequisites
+
+Before you begin, make sure you have:
+
+* Requirement 1
+* Requirement 2
+
+== Installation
+
+Follow these steps to install the product:
+
+1. Step one
+2. Step two
+3. Step three

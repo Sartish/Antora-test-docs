@@ -1,0 +1,14 @@
+= Welcome to My Documentation
+:page-layout: home
+
+This is the landing page of our documentation site.
+
+[.cards.cards-4]
+=== Quick Links
+
+* xref:getting-started.adoc[Getting Started]
+  ** Learn how to get started with our product
+
+== What's Next?
+
+Navigate through our documentation using the sidebar menu.

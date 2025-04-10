@@ -1,0 +1,9 @@
+{
+  "name": "antora-docs",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@antora/cli": "3.1.10",
+    "@antora/site-generator": "3.1.10"
+  }
+}
